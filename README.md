@@ -2,7 +2,7 @@
 - This is a simple web site designed using bootstrap
 - This website is purely design oriented and doesn't have any other functionality
 - Build using HTML and CSS
-- Hosted on github pages - 
+- Hosted on github pages - https://raveen2001.github.io/Mystic/
 
 
 
